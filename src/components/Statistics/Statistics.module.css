@@ -1,0 +1,12 @@
+.statistics {
+  padding: 20px;
+  text-align: center;
+}
+.title {
+  text-transform: uppercase;
+}
+
+.stat_list {
+  padding: 0;
+  display: flex;
+}
