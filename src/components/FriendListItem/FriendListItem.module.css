@@ -1,0 +1,26 @@
+.item {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  box-sizing: content-box;
+  border: 3px;
+  border-style: double;
+}
+
+.name {
+  font-weight: 700;
+}
+
+.onLine,
+.offLine {
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  background-color: greenyellow;
+}
+
+.offLine {
+  background-color: crimson;
+}
